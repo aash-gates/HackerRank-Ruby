@@ -6,3 +6,6 @@ hackerrank.default = 0
 hackerrank.keep_if{| key, value | is_a? Integer && key != even?}
 //new key, value
 hackerrank.store(543121, 100)
+
+
+#remove those "//" before pasting it into HackerRank IDE
